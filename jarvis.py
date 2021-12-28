@@ -126,3 +126,5 @@ if __name__=="__main__" :
             print(results)
         elif 'instagram' in query:
             webbrowser.open("instagram.com")
+        elif 'facebook' in query:
+            webbrowser.open("facebook.com")
